@@ -12,7 +12,7 @@
                                     <img src="img/service-1.jpg" alt="Image">
                                     <div class="service-overlay">
                                         <p>
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.
+                                            We have trained and experienced labour backed by qualified engineers.
                                         </p>
                                     </div>
                                 </div>
@@ -28,7 +28,7 @@
                                     <img src="img/service-2.jpg" alt="Image">
                                     <div class="service-overlay">
                                         <p>
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.
+                                            want to see your house like new ? we are here for u .
                                         </p>
                                     </div>
                                 </div>
@@ -44,7 +44,7 @@
                                     <img src="img/service-3.jpg" alt="Image">
                                     <div class="service-overlay">
                                         <p>
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.
+                                            Our architecture is the best u can ask for. design your project with us.
                                         </p>
                                     </div>
                                 </div>
@@ -59,9 +59,7 @@
                                 <div class="service-img">
                                     <img src="img/service-4.jpg" alt="Image">
                                     <div class="service-overlay">
-                                        <p>
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.
-                                        </p>
+                                        Atlas is your reliable partner to create your DREAM HOME, with bespoke Interior Design and Architecture. Having collaborated with clients for Interior Design and Architecture of houses, villas and apartments
                                     </div>
                                 </div>
                                 <div class="service-text">
@@ -76,7 +74,7 @@
                                     <img src="img/service-5.jpg" alt="Image">
                                     <div class="service-overlay">
                                         <p>
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.
+                                            Atlas is designed and manufactured to engineers specifications on a project basis and offers two planes of adjustability on-site. The material content of the system is optimised to ensure the most economical solution is designed
                                         </p>
                                     </div>
                                 </div>
@@ -88,18 +86,6 @@
                         </div>
                         <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
                             <div class="service-item">
-                                <div class="service-img">
-                                    <img src="img/service-6.jpg" alt="Image">
-                                    <div class="service-overlay">
-                                        <p>
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="service-text">
-                                    <h3>Painting</h3>
-                                    <a class="btn" href="img/service-6.jpg" data-lightbox="service">+</a>
-                                </div>
                             </div>
                         </div>
                     </div>

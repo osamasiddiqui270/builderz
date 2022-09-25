@@ -19,48 +19,50 @@
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
-                                <img src="img/portfolio-1.jpg" alt="Image">
+                                <img src="img/atlproject1.jpg" alt="Image">
                                 <div class="portfolio-overlay">
                                     <p>
-                                        Lorem ipsum dolor sit amet elit. Phasel nec pretium mi. Curabit facilis ornare velit non. Aliqu metus tortor, auctor id gravi condime, viverra quis sem.
+                                        Consultant: International Design Consultant
+		                                Location: Plot No: 245 & 246, Block-H, Mirbah, Fujairah
                                     </p>
                                 </div>
                             </div>
                             <div class="portfolio-text">
-                                <h3>Project Name</h3>
-                                <a class="btn" href="img/portfolio-1.jpg" data-lightbox="portfolio">+</a>
+                                <h3>Proposed Villa (G+1)</h3>
+                                <a class="btn" href="img/atlproject1.jpg" data-lightbox="portfolio">+</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item second wow fadeInUp" data-wow-delay="0.2s">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
-                                <img src="img/portfolio-2.jpg" alt="Image">
+                                <img src="img/atlproject2.jpeg" alt="Image">
                                 <div class="portfolio-overlay">
                                     <p>
-                                        Lorem ipsum dolor sit amet elit. Phasel nec pretium mi. Curabit facilis ornare velit non. Aliqu metus tortor, auctor id gravi condime, viverra quis sem.
+                                        Client : Riddhi Siddhi Crusher And Land Transport
                                     </p>
                                 </div>
                             </div>
                             <div class="portfolio-text">
-                                <h3>Project Name</h3>
-                                <a class="btn" href="img/portfolio-2.jpg" data-lightbox="portfolio">+</a>
+                                <h3>Construction of Crushing Plant</h3>
+                                <a class="btn" href="img/atlproject2.jpeg" data-lightbox="portfolio">+</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item third wow fadeInUp" data-wow-delay="0.3s">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
-                                <img src="img/portfolio-3.jpg" alt="Image">
+                                <img src="img/atlproject3.jpg" alt="Image">
                                 <div class="portfolio-overlay">
                                     <p>
-                                        Lorem ipsum dolor sit amet elit. Phasel nec pretium mi. Curabit facilis ornare velit non. Aliqu metus tortor, auctor id gravi condime, viverra quis sem.
+                                        Consultant: Mozoon Engineering LLC
+		                            	Location: Plot No: 58, Block – D, Girath, Fujairah
                                     </p>
                                 </div>
                             </div>
                             <div class="portfolio-text">
-                                <h3>Project Name</h3>
-                                <a class="btn" href="img/portfolio-3.jpg" data-lightbox="portfolio">+</a>
+                                <h3>Proposed Villa (G+1)</h3>
+                                <a class="btn" href="img/atlproject3.jpg" data-lightbox="portfolio">+</a>
                             </div>
                         </div>
                     </div>

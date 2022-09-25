@@ -5,9 +5,9 @@
                     <div class="col-md-6 col-lg-3">
                         <div class="footer-contact">
                             <h2>Office Contact</h2>
-                            <p><i class="fa fa-map-marker-alt"></i>BatlaHouse Okhla , New Delhi, India</p>
-                            <p><i class="fa fa-phone-alt"></i>+012 345 67890</p>
-                            <p><i class="fa fa-envelope"></i>info@example.com</p>
+                            <p><i class="fa fa-map-marker-alt"></i>1stFloor Emirates Trade Centre, Fujairah - United Arab Emirates</p>
+                            <p><i class="fa fa-phone-alt"></i>(+971) 9223 - 4422</p>
+                            <p><i class="fa fa-envelope"></i>info@atlascontracting.ae</p>
                             <div class="footer-social">
                                 <a href="index.html"><i class="fab fa-twitter"></i></a>
                                 <a href="index.html"><i class="fab fa-facebook-f"></i></a>
@@ -37,18 +37,7 @@
                             <a href="{{route('project')}}">Testimonial</a>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-3">
-                        <div class="newsletter">
-                            <h2>Newsletter</h2>
-                            <p>
-                                Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulpu
-                            </p>
-                            <div class="form">
-                                <input class="form-control" placeholder="Email here">
-                                <button class="btn">Submit</button>
-                            </div>
-                        </div>
-                    </div>
+
                 </div>
             </div>
             <div class="container footer-menu">

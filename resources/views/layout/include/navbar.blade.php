@@ -12,11 +12,7 @@
                                 <a href="{{route('home')}}" class="nav-item nav-link active">Home</a>
                                 <a href="{{route('about')}}" class="nav-item nav-link">About</a>
                                 <a href="{{route('services')}}" class="nav-item nav-link">Service</a>
-                                <a href="{{route('team')}}" class="nav-item nav-link">Team</a>
                                 <a href="{{route('project')}}" class="nav-item nav-link">Project</a>
-                                <div class="nav-item ">
-                                    <a href="{{route('page')}}" class="nav-link ">Page</a>
-                                </div>
                                 <a href="{{route('contact')}}" class="nav-item nav-link">Contact</a>
                             </div>
                             <div class="ml-auto">

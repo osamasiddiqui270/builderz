@@ -7,7 +7,7 @@
             </ol>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="{{asset ('img/carousel-1.jpg')}}" alt="Carousel Image">
+                    <img src="{{asset ('img/atlas1.jpeg')}}" alt="Carousel Image">
                     <div class="carousel-caption">
                         <p class="animated fadeInRight">We Are Professional</p>
                         <h1 class="animated fadeInLeft">For Your Dream Project</h1>
@@ -16,7 +16,7 @@
                 </div>
 
                 <div class="carousel-item">
-                    <img src="{{ asset ('img/carousel-2.jpg')}}" alt="Carousel Image">
+                    <img src="{{ asset ('img/atlas2.jpeg')}}" alt="Carousel Image">
                     <div class="carousel-caption">
                         <p class="animated fadeInRight">Professional Builder</p>
                         <h1 class="animated fadeInLeft">We Build Your Home</h1>
@@ -25,7 +25,7 @@
                 </div>
 
                 <div class="carousel-item">
-                    <img src="{{asset ('img/carousel-3.jpg')}}" alt="Carousel Image">
+                    <img src="{{asset ('img/atlas3.jpeg')}}" alt="Carousel Image">
                     <div class="carousel-caption">
                         <p class="animated fadeInRight">We Are Trusted</p>
                         <h1 class="animated fadeInLeft">For Your Dream Home</h1>
@@ -34,11 +34,11 @@
                 </div>
             </div>
 
-            <a class="carousel-control-prev" href="index.html#carousel" role="button" data-slide="prev">
+            <a class="carousel-control-prev" href="{{asset('home.section.page-banner#carousel')}}" role="button" data-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                 <span class="sr-only">Previous</span>
             </a>
-            <a class="carousel-control-next" href="index.html#carousel" role="button" data-slide="next">
+            <a class="carousel-control-next" href="{{asset('home.section.page-banner#carousel')}}" role="button" data-slide="next">
                 <span class="carousel-control-next-icon" aria-hidden="true"></span>
                 <span class="sr-only">Next</span>
             </a>

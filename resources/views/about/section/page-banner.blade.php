@@ -5,7 +5,7 @@
                     <div class="row align-items-center">
                         <div class="col-lg-5 col-md-6">
                             <div class="about-img">
-                                <img src="img/about.jpg" alt="Image">
+                                <img src="img/atlas.jpeg" alt="Image">
                             </div>
                         </div>
                         <div class="col-lg-7 col-md-6">
@@ -15,11 +15,11 @@
                             </div>
                             <div class="about-text">
                                 <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.
+                                    we are in this field for atleast 22 years . our work has been highly praised by many companies we have provided our customers the service they need and want. we are whaat u are looking for.
                                 </p>
                                 <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem. Curabitur non nisl nec nisi scelerisque maximus. Aenean consectetur convallis porttitor. Aliquam interdum at lacus non blandit.
-                                </p>
+                                    Atlas is specialized in construction, interior and exterior designing, infrastructure development and branding for elite class and luxury commercial interiors. The actions of Atlas can create a huge difference. Company is actually a collection of active, expert and creative designers. As well as our liability and involvement are robustly through each level of the decoration and construction growth.
+                               </p>
                                 <a class="btn" href="{{route('about')}}">Learn More</a>
                             </div>
                         </div>

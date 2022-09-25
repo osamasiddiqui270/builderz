@@ -5,7 +5,7 @@
                         <div class="col-lg-4 col-md-12">
                             <div class="logo">
                                 <a href="index.html">
-                                    <h1>Builderz</h1>
+                                    <h1>ATLAS</h1>
                                     {{-- <img src="{{ asset('img/logo.jpg')}}" alt="Logo"> --}}
                                 </a>
                             </div>
@@ -30,7 +30,7 @@
                                         </div>
                                         <div class="top-bar-text">
                                             <h3>Call Us</h3>
-                                            <p>+012 345 6789</p>
+                                            <p>(+971) 9223 - 4422</p>
                                         </div>
                                     </div>
                                 </div>
@@ -41,7 +41,7 @@
                                         </div>
                                         <div class="top-bar-text">
                                             <h3>Email Us</h3>
-                                            <p>info@example.com</p>
+                                            <p>info@atlascontracting.ae</p>
                                         </div>
                                     </div>
                                 </div>

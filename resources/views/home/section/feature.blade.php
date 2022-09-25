@@ -12,7 +12,7 @@
                                 </div>
                                 <div class="feature-text">
                                     <h3>Expert Worker</h3>
-                                    <p>Lorem ipsum dolor sit amet elit. Phasus nec pretim ornare velit non</p>
+                                    <p>we provide highly skilled workers with many year's of experience </p>
                                 </div>
                             </div>
                         </div>
@@ -23,7 +23,7 @@
                                 </div>
                                 <div class="feature-text">
                                     <h3>Quality Work</h3>
-                                    <p>Lorem ipsum dolor sit amet elit. Phasus nec pretim ornare velit non</p>
+                                    <p>Our work has the quality you need with customer satisfaction</p>
                                 </div>
                             </div>
                         </div>
@@ -34,7 +34,7 @@
                                 </div>
                                 <div class="feature-text">
                                     <h3>24/7 Support</h3>
-                                    <p>Lorem ipsum dolor sit amet elit. Phasus nec pretim ornare velit non</p>
+                                    <p>Need help! contact is open 27/7 </p>
                                 </div>
                             </div>
                         </div>
